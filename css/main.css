@@ -1,0 +1,37 @@
+header {
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: #ffd800;
+    padding: 15px;
+    color: #808080;
+}
+
+.use {
+    margin-bottom: 50px;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-muted {
+    color: #ff6a00;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.big-title {
+    font-size: 60px;
+}
+
+.text-bold {
+    font-weight: 700;
+    color: #808080;
+}
